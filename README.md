@@ -1,7 +1,7 @@
 <a href="https://paul-emile-robert.fr">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banniere-sombre.png">
-    <img alt="Paul-Emile Robert, développeur web et mobile à Rennes. Ouvert aux projets." src="assets/banniere-clair.png">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banniere-sombre.svg">
+    <img alt="Paul-Emile Robert, développeur web et mobile à Rennes. Ouvert aux projets." src="assets/banniere-clair.svg">
   </picture>
 </a>
 
