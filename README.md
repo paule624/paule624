@@ -25,7 +25,7 @@ Je conçois et je développe des **sites** et des **applications**, seul, de la 
     <td width="50%" valign="top">
       <a href="https://paul-emile-robert.fr/projets/theophile"><img src="assets/theophile.jpg" alt="Théophile"></a>
       <br><b>Théophile</b>
-      <br>Le Catéchisme de l'Église catholique : lire, chercher, interroger un assistant.
+      <br>Le Catéchisme de l'Église catholique à lire, chercher et interroger.
       <br><sub>Web · iOS · Android</sub>
     </td>
     <td width="50%" valign="top">
@@ -45,7 +45,7 @@ Je conçois et je développe des **sites** et des **applications**, seul, de la 
     <td width="50%" valign="top">
       <a href="https://paul-emile-robert.fr/projets/poze"><img src="assets/poze.jpg" alt="poze"></a>
       <br><b>poze</b>
-      <br>Un appareil photo jetable pour les mariages : les photos se révèlent ensemble.
+      <br>Un appareil photo jetable pour les événements, dont les photos se révèlent ensemble.
       <br><sub>Web (PWA)</sub>
     </td>
   </tr>
@@ -59,7 +59,7 @@ Je conçois et je développe des **sites** et des **applications**, seul, de la 
     <td width="50%" valign="top">
       <a href="https://paul-emile-robert.fr/projets/aides-etudiantes"><img src="assets/aides-etudiantes.jpg" alt="Aides étudiantes"></a>
       <br><b>Aides étudiantes</b>
-      <br>Le simulateur des aides 2026-2027 : bourse Crous, APL, 322 aides locales.
+      <br>Le simulateur des aides 2026-2027, de la bourse Crous aux 322 aides locales.
       <br><sub>Web · MCP · <a href="https://github.com/paule624/aide-etudiant">code</a></sub>
     </td>
   </tr>
